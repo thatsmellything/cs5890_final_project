@@ -1,0 +1,1 @@
+sudo hci -i hci0 scan
